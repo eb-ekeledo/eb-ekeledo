@@ -1,4 +1,4 @@
-I'm Ebere Ekeledo, a product design leader who designs in code. For 13 years I've shaped products from the first sketch to launch. Now I build the interface itself, in the browser, so the motion, spacing and feel ship exactly as designed instead of getting lost in a handoff. Based in Calgary → [ebere.design](https://www.ebere.design)
+I'm Ebere Ekeledo, a product design leader who designs in code. For 13 years I've shaped products from the first sketch to launch. Now I build the interface itself, in the browser, so the motion, spacing and feel ship exactly as designed instead of getting lost in a handoff. Based in Calgary
 
 ## What I've built
 
